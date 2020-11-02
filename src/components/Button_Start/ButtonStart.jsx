@@ -9,7 +9,7 @@ const ButtonStart = () =>{
       <>
       <GlobalStyle/>
       <WrapperButton>
-         <Link to="/Game">
+         <Link to="/tic-tac-toe/tic-tac-toe/Game">
             <Button><P>S T A R T</P></Button>
          </Link>
       </WrapperButton>
