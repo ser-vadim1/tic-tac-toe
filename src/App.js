@@ -11,10 +11,10 @@ return (
   <>
   <BrowserRouter>
   <Switch>
-    <Route exact path="/">
+    <Route exact path="/tic-tac-toe">
       <StartPage/>
     </Route>
-    <Route  path="/Game">
+    <Route  path="tic-tac-toe/Game">
       <GamePage />
     </Route>
   </Switch>
