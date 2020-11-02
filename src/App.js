@@ -14,7 +14,7 @@ return (
     <Route exact path="/tic-tac-toe">
       <StartPage/>
     </Route>
-    <Route  path="tic-tac-toe/Game">
+    <Route  path="/tic-tac-toe/Game">
       <GamePage />
     </Route>
   </Switch>
